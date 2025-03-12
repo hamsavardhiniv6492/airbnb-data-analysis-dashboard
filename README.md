@@ -1,5 +1,5 @@
-Airbnb Data AnalysisThis repository contains a Google Looker Studio (formerly Google Data Studio) report designed for analyzing Airbnb data. The report provides comprehensive insights into various key metrics related to Airbnb listings, including pricing trends, occupancy rates, and geographic distribution.
-Project OverviewAirbnb has transformed the hospitality industry by offering alternative accommodations for travelers worldwide. This project aims to analyze Airbnb data to uncover trends, pricing strategies, and user behaviors. The insights generated from this analysis can be valuable for hosts, travelers, and researchers studying the short-term rental market.
+Airbnb Data Analysis:This repository contains a Google Looker Studio (formerly Google Data Studio) report designed for analyzing Airbnb data. The report provides comprehensive insights into various key metrics related to Airbnb listings, including pricing trends, occupancy rates, and geographic distribution.
+Project Overview :Airbnb has transformed the hospitality industry by offering alternative accommodations for travelers worldwide. This project aims to analyze Airbnb data to uncover trends, pricing strategies, and user behaviors. The insights generated from this analysis can be valuable for hosts, travelers, and researchers studying the short-term rental market.
 Project DetailsReport Name: Airbnb Data Analysis
 Version: 1.0
 Report Path: airbnd data analysis.Report
