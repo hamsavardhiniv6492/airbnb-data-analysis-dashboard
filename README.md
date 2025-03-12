@@ -25,5 +25,5 @@ InstallationIf you wish to extend the analysis beyond Looker Studio, you can:
 Export data to Excel or Google Sheets for additional processing.
 Use Python or SQL to perform advanced data manipulation.
 Integrate with Power BI or Tableau for further visualization.
-ContributionContributions to enhance this analysis are welcome! If you have suggestions, data sources, or new visualizations to add, feel free to fork this repository and submit a pull request.
-Disclaime rThis repository contains only the metadata and structure of the Looker Studio report. The actual dataset needs to be connected separately based on user requirements. Airbnb data is subject to change and may vary across locations and timeframes.
+Contributions to enhance this analysis are welcome! If you have suggestions, data sources, or new visualizations to add, feel free to fork this repository and submit a pull request.
+Disclaimer This repository contains only the metadata and structure of the Looker Studio report. The actual dataset needs to be connected separately based on user requirements. Airbnb data is subject to change and may vary across locations and timeframes.
